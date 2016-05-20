@@ -1,0 +1,28 @@
+name: harvestechcorp
+favicon: null
+layout_spectrum: 0.3755272473208606
+typography_spectrum: 0.7153535503894091
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.814955010311678
+  lightness: 0.5903496900573373
+  saturation: 0.18584088329225779
+  rhythmicContrast: 0.7997816789429635
+purpose: []
